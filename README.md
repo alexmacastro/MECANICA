@@ -6,7 +6,7 @@ ETS de Ingenieros de Caminos, Canales y Puertos
 Universidad de Granada
 
 
-	-Alejandro E. Martínez Castro 
+	-Alejandro E. Martínez Castro (Desarrollador principal)
 	
 	-Rafael Muñoz Beltrán
 	
