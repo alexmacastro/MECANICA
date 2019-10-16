@@ -3,11 +3,7 @@
 MECANICA PARA INGENIEROS. Curso 2018-2019. Grado en Ingeniería Civil
 
 + Alejandro E. Martínez Castro (Desarrollador principal, email:amcastro@ugr.es).
-+ Germán Rodríguez Salido.
-+ Manuel Chiachío Ruano
-+ Rafael Bravo Pareja.
-+ Rafael Muñoz Beltrán. 
-+ Gracia Rodríguez Jerónimo.
+
 
 Departamento de Mecánica de Estructuras e Ingeniería Hidráulica.
 Universidad de Granada
